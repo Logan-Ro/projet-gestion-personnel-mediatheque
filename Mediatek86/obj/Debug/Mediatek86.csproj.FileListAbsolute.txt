@@ -1,0 +1,15 @@
+C:\Users\logan\Downloads\projet_1ere_annee\Mediatek86\Mediatek86\bin\Debug\Mediatek86.exe.config
+C:\Users\logan\Downloads\projet_1ere_annee\Mediatek86\Mediatek86\bin\Debug\Mediatek86.exe
+C:\Users\logan\Downloads\projet_1ere_annee\Mediatek86\Mediatek86\bin\Debug\Mediatek86.pdb
+C:\Users\logan\Downloads\projet_1ere_annee\Mediatek86\Mediatek86\obj\Debug\Mediatek86.csproj.AssemblyReference.cache
+C:\Users\logan\Downloads\projet_1ere_annee\Mediatek86\Mediatek86\obj\Debug\Mediatek86.Properties.Resources.resources
+C:\Users\logan\Downloads\projet_1ere_annee\Mediatek86\Mediatek86\obj\Debug\Mediatek86.Vue.FormAccueil.resources
+C:\Users\logan\Downloads\projet_1ere_annee\Mediatek86\Mediatek86\obj\Debug\Mediatek86.Vue.FormLogin.resources
+C:\Users\logan\Downloads\projet_1ere_annee\Mediatek86\Mediatek86\obj\Debug\Mediatek86.csproj.GenerateResource.cache
+C:\Users\logan\Downloads\projet_1ere_annee\Mediatek86\Mediatek86\obj\Debug\Mediatek86.csproj.CoreCompileInputs.cache
+C:\Users\logan\Downloads\projet_1ere_annee\Mediatek86\Mediatek86\obj\Debug\Mediatek86.exe
+C:\Users\logan\Downloads\projet_1ere_annee\Mediatek86\Mediatek86\obj\Debug\Mediatek86.pdb
+C:\Users\logan\Downloads\projet_1ere_annee\Mediatek86\Mediatek86\obj\Debug\Mediatek86.Vue.AjoutAbs.resources
+C:\Users\logan\Downloads\projet_1ere_annee\Mediatek86\Mediatek86\obj\Debug\Mediatek86.Vue.AjoutPers.resources
+C:\Users\logan\Downloads\projet_1ere_annee\Mediatek86\Mediatek86\obj\Debug\Mediatek86.Vue.ModifAbs.resources
+C:\Users\logan\Downloads\projet_1ere_annee\Mediatek86\Mediatek86\obj\Debug\Mediatek86.Vue.ModifPers.resources
